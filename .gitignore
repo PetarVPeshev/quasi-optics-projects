@@ -1,0 +1,37 @@
+*.avs
+
+# Figures
+*.fig
+*.eps
+
+# Figure, result, & workspace directories
+figures/
+results/
+workspaces/
+
+# Assignment I instruction
+Instruction_1_SGF.mlx
+
+# Assignment II instruction
+Assignment 2 - Parabolic Reflector.pdf
+Reflector Antennas -Instruction lecture 2023.pdf
+
+# Assignment III instruction
+Assignment 3 - Lens Antenna.pdf
+Lens Antennas - Instruction lecture 2023.pdf
+
+# Assignment IV instruction
+Assignment 4 - FO for FPA.pdf
+FO for FPA - Instruction lecture 2023.pdf
+
+# Assignment V instruction
+3_Matlab1_2022.pdf
+Home_assignment_5.pdf
+
+# Assignment VI instruction
+4_Matlab2_2021 - Solutions problem 1.pdf
+4_Matlab2_2022_students.pdf
+Home_assignment_6.pdf
+
+# Final projects
+Exam Matlab Projects 2023.pdf
